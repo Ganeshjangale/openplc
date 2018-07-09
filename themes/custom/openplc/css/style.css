@@ -1,0 +1,73 @@
+/**
+ * Place your custom styles here.
+ */
+
+
+
+
+
+#main-content .well .well-lg .region .region-content {
+
+
+
+background-color:#fff !important;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#flexslider-1 img{
+
+
+
+max-height:400px !important;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.navbar-header img{
+
+height:45px !important;
+
+}
+
+#navbar {
+
+border-bottom: 1px solid #919191 !important;
+box-shadow: 2px 2px 4px rgba(0,0,0,0.5) !important;
+
+}
+
+
+#navbar a{
+
+margin:3px !important;
+border-top-right-radius: 50px 40px !important;
+padding-right:25px !important;
+/*border-bottom-right-radius: 50px 20px !important;*/
+
+}
+
+/*
+footer{
+background-color:#000 !important;
+}*/
